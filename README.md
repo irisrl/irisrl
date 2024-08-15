@@ -4,6 +4,7 @@
 **irisrl/irisrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on developing prefessional skills to land better jobs.
 - 🌱 I’m currently learning Pythons, HTML and CSS.
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ihsuiris@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I did acrobatics for 8 years in my life.
--->
+
